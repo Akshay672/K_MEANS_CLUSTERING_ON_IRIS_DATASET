@@ -2,7 +2,7 @@
 
 ![large](https://user-images.githubusercontent.com/85668824/124927198-fe4b0400-e01b-11eb-88b3-117e9beca0e0.png)
 
- **Task 1:** 
+ **Task 2:** 
 
 <b>Prediction using Unsupervised ML (K-Means Clustering)</b>
 
